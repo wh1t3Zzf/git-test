@@ -5,7 +5,7 @@ public class Test {
 		System.out.println("git-test3");
 		System.out.println("git-test3");
 		System.out.println("git-test3");
-		System.out.println("创建分支");
+		System.out.println("分支添加");
 	}
 	
 
